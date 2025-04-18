@@ -33,7 +33,7 @@ In Home view, all the views button will be available. User will land on specific
 - Support
 ## Info Page
 
-![Home page](https://github.com/Sans-here/Business-Insight-360/blob/main/Screenshot%202025-04-18%20224022.png)
+![Screenshot 2025-04-18 224022.png](https://github.com/Sans-here/Business-Insight-360/blob/main/Screenshot%202025-04-18%20224022.png)
 
 ## Finance View
 
