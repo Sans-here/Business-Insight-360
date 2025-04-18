@@ -33,26 +33,26 @@ In Home view, all the views button will be available. User will land on specific
 - Support
 ## Info Page
 
-![Info.gif](https://github.com/Sans-here/Business-Insight-360/blob/main/Screenshot%202025-04-18%20224022.png)
+![Home page](https://github.com/Sans-here/Business-Insight-360/blob/main/Screenshot%202025-04-18%20224022.png)
 
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Screenshot 2025-04-18 224052.png](https://github.com/Sans-here/Business-Insight-360/blob/main/Screenshot%202025-04-18%20224052.png)
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Screenshot 2025-04-18 224107.png](https://github.com/Sans-here/Business-Insight-360/blob/main/Screenshot%202025-04-18%20224107.png)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Screenshot 2025-04-18 224120.png](https://github.com/Sans-here/Business-Insight-360/blob/main/Screenshot%202025-04-18%20224120.png)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Screenshot 2025-04-18 224133.png](https://github.com/Sans-here/Business-Insight-360/blob/main/Screenshot%202025-04-18%20224133.png)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Screenshot 2025-04-18 224143.png](https://github.com/Sans-here/Business-Insight-360/blob/main/Screenshot%202025-04-18%20224143.png)
 ## Project Outcome
 
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
